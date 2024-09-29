@@ -1,0 +1,1 @@
+A Keep note form which save your notes , edits it and deletes as per user wish. To use, download this files and open this directory in vscode or any other platform, then in terminal use npm install followed by npm start which start the app
